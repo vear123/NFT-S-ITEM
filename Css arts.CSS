@@ -1,0 +1,175 @@
+body { 
+    position: relative;
+    background-color: black;
+}
+.top{
+    position: relative;
+    font-size: larger;
+    left: 1400px;
+}
+.team p {
+    position: relative;
+    font-size: x-large;
+    color: white ;
+    left: 500px;
+    bottom: -100px;
+}
+.top p{
+    position: relative;
+    left: -10px;
+    color: white ;
+}
+.top img{
+    position: relative;
+    max-width: 30px;
+    max-height: 50px;
+}
+
+.About , ul {
+    position: relative;
+    color: white ;
+    top: -50px;
+}
+.About p{
+    position: relative;
+    left: 500px;
+    bottom: -200px;
+}
+.towerclock li{
+    position: relative;
+    color: white ;
+    left: 750px;
+    bottom: -100px;
+}
+.towerclock p {
+    position: relative;
+    color: white ;
+    left: 750px;
+    bottom: -100px;
+
+}
+.towera {
+    position: relative;
+    top: -1100px;
+    left: 200px;
+}
+.ave p  {
+    position: relative;
+    color: white ;
+    left: 750px;
+    bottom: -245px;
+}
+.logo img{
+    position: relative;
+    max-width: 100px;
+    max-height: 100px;
+    bottom: 80px;
+}
+.imagetowerclock img{
+    max-width: -8000px;
+    max-height: -8000px;
+}
+.ins input {
+    position: relative;
+    left: 830px;
+    bottom: -210px;
+}
+.rec p {
+    color: blue;
+    position: relative;
+    bottom: 1035px;
+    left: 35px;
+}
+.centera p {
+    position: relative;
+    color: white ;
+}
+
+.lastline p{
+    position: relative;
+    left: 780px;
+    bottom: 670px;
+    color: white ;
+}
+.comming img {
+    position: relative;
+    left: 1100px;
+    bottom: 394px;
+}
+.home a {
+    position: relative;
+    bottom: 500px;
+    left: 100px;
+}
+.wellcome img {
+    position: relative;
+    max-width: 100px;
+    max-height: 100px;
+    bottom: 560px;
+}
+.mr img {
+    position: relative;
+    color: white ;
+    max-height: 40px;
+    max-height: 40px;
+    left: 1300px;
+    bottom: 630px;
+}
+.nam p {
+    position: relative;
+    font-size: larger;
+    color: white ;
+    left: 1300px;
+    bottom: 640px;
+}
+.hot img {
+    position: relative;
+    left: 500px;
+    max-width: 60px;
+    max-height: 60px;
+    bottom: 700px;
+}
+.hottop li {
+    color: white ;
+    position: relative;
+    left: 570px;
+    bottom: 700px;
+}
+.non p {
+    color: white ;
+    position: relative;
+    left: 678px;
+    bottom: 783px;
+}
+.arival1 img {
+    position: relative;
+    max-width: 60px;
+    max-height: 60px;
+    bottom: 660px;
+    left: 80px;
+}
+.arival1 p {
+    color: white ;
+    position: relative;
+    bottom: 660px;
+    left: 80px;
+}
+.bunny1 img {
+    position: relative;
+    max-width: 300px;
+    max-height: 300px;
+    bottom: 810px;
+    left: 110px;
+}
+.bunny1 p {
+    position: relative;
+    color: white ;
+    bottom: 690px;
+    left: 415px;
+
+}.bunny2 p {
+    position: relative;
+    color:aqua;
+    bottom: 600px;
+    left: 100px;
+}
